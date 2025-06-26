@@ -7,7 +7,7 @@ www.kaggle.com/datasets/willianoliveiragibin/kendrick-lamar-discography/versions
 <br>*Containing data on the discography (without information on popularity, i.e. the number of listens on the Spotify platform - I have added by myself, actual at 19.02.2025)*
 <br>And a second dataset, created by myself, containing the most important achievements and awards over the years.
 
-**https://public.tableau.com/views/KendrickLamar_17401971305850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
+Tableau: **https://public.tableau.com/views/KendrickLamar_17401971305850/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
 
 
 ## JAMES HARDEN 2017-2018 MVP SEASON
@@ -16,7 +16,7 @@ The visualization includes basic information about the player's statistics and s
 
 The dataset used was created by myself using data available at https://www.nbasavant.com
 
-**https://public.tableau.com/views/JamesHarden2017-2018MVPseason/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
+Tableau: **https://public.tableau.com/views/JamesHarden2017-2018MVPseason/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
 
 
 ## ELECTION TO THE SEJM OF THE REPUBLIC OF POLAND 2023 (polish language)
@@ -26,7 +26,7 @@ In addition, the top 5 support for districts (powiaty), municipalities (gminy) a
 
 The dataset was created with the data from the official pkw.gov.pl website.
 
-**https://public.tableau.com/views/WyborydosejmuRzeczypospolitejPolski2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
+Tableau: **https://public.tableau.com/views/WyborydosejmuRzeczypospolitejPolski2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
 
 
 ## NCAA BASKETBALL 2013-2023
@@ -36,12 +36,13 @@ The analyse about progress and achievements of all teams were made with possibil
 
 The dataset that was used was available on Kaggle: https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset
 
-**https://public.tableau.com/views/NCAAbasketball2013-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
+Tableau: **https://public.tableau.com/views/NCAAbasketball2013-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
 
 
 ## PERSECUTION OF JOURNALISTS
-**Dashboard showing**<br>
+**Dashboard showing the history of journalists who have suffered because of their profession**<br>
+The visualization shows meticulous analysis of data gathered by The Committee to Protect Journalists (CPJ) about persecution of journalists from years 1972 to 2025 from all around the world.
 
-The dataset was created with
+The data was scraped from CPJ website: https://cpj.org
 
-**https://public.tableau.com/views/Persecutionofjournalists/Page2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
+Tableau: **https://public.tableau.com/views/Persecutionofjournalists/Page2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
