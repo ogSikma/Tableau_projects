@@ -30,9 +30,11 @@ The dataset was created with the data from the official pkw.gov.pl website.
 
 
 ## NCAA BASKETBALL 2013-2023
-**Dashboard showing**<br>
+**Dashboard showing the data about NCAA league of basketball in 2013-2023 years**<br>
+The visualization shows fundamental info about basketball NCAA teams. 
+The analyse about progress and achievements of all teams were made with possibility to filter for every one of them - the only requirement was to be present for more than 3 seasons in the 10 years span.
 
-The dataset was created with
+The dataset that was used was available on Kaggle: https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset
 
 **https://public.tableau.com/views/NCAAbasketball2013-2023/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**<br><br>
 
